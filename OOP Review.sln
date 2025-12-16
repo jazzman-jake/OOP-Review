@@ -5,6 +5,14 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OOP Review", "OOP Review.pyproj", "{499C3341-8734-4EA0-947A-338B75C78328}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Date Project", "..\Date Project\Date Project.pyproj", "{67E99025-1495-48A8-84C8-92867773E7AE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Factory Workers Project(1)", "..\Factory Workers Project(1)\Factory Workers Project(1).pyproj", "{0E3D5F5D-8799-4C0E-94C5-3F1528C8EE7A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Shapes Project", "..\Shapes Project\Shapes Project.pyproj", "{1B64BD6D-3DF7-4DC2-A713-72C450C66529}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Parking Ticket Project", "..\Parking Ticket Project\Parking Ticket Project.pyproj", "{F3A26C94-8B86-4F89-B2EF-4DDAB3D076B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +21,14 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{499C3341-8734-4EA0-947A-338B75C78328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{499C3341-8734-4EA0-947A-338B75C78328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E99025-1495-48A8-84C8-92867773E7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E99025-1495-48A8-84C8-92867773E7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3D5F5D-8799-4C0E-94C5-3F1528C8EE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3D5F5D-8799-4C0E-94C5-3F1528C8EE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B64BD6D-3DF7-4DC2-A713-72C450C66529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B64BD6D-3DF7-4DC2-A713-72C450C66529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A26C94-8B86-4F89-B2EF-4DDAB3D076B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A26C94-8B86-4F89-B2EF-4DDAB3D076B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
